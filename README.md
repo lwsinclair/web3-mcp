@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/strangelove-ventures-web3-mcp-badge.png)](https://mseep.ai/app/strangelove-ventures-web3-mcp)
+
 # Web3 MCP
 
 A Model-Context-Protocol server for interacting with multiple blockchains including Solana, Ethereum, THORChain, XRP Ledger, TON (The Open Network), Cardano, and UTXO chains. This server provides simple RPC endpoints for common blockchain operations, allowing secure interactions with various blockchains through environment variables.
